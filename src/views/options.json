@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "type": "3000years",
+    "fields": [{ "title": "Url" }]
+  },
+
+  {
+    "id": 3,
+    "type": "batslap",
+    "fields": [{ "title": "avatar" }, { "title": "url" }]
+  },
+  {
+    "id": 4,
+    "type": "missionpassed",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 5,
+    "type": "approved",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 6,
+    "type": "afusion",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 7,
+    "type": "beautiful",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 8,
+    "type": "crush",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 9,
+    "type": "ddungeon",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 10,
+    "type": "dictator",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 11,
+    "type": "fire",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 12,
+    "type": "frame",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 13,
+    "type": "gay",
+    "fields": [{ "title": "Url" }]
+  },
+  {
+    "id": 14,
+    "type": "glitch",
+    "fields": [{ "title": "Url" }]
+  }
+]
