@@ -30,7 +30,7 @@ This screen contain `Action` dropdown and `URL` field. You click the Generate bu
 
 - [vue](https://github.com/vuejs/core/tree/main/packages/vue#readme)
 - [Vue Toaster](https://github.com/MeForma/vue-toaster#readme): Used to show message notification
-- [Axios](https://axios-http.com/): Axios is a simple promise based HTTP client for the browser and node.js. Axios provides a simple to use library in a small package with a very extensible interface.
+- **Fetch**: Fetch is a simple promise based HTTP client for the browser and node.js. Fetch provides a simple to use library in a small package with a very extensible interface.
 - [Stylus](https://github.com/stylus/stylus): Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.
 
 ## Improvements can be done in future

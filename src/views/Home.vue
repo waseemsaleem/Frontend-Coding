@@ -54,21 +54,19 @@
 import { ref } from 'vue'
 import { createToaster } from '@meforma/vue-toaster'
 import optionsList from './options.json'
+import { AMETHYSTE_API_TOKEN, BASE_URL } from '../constants'
 const toaster = createToaster({
   /* options */
 })
 
 const type = ref('Select Type')
-
 const options = ref(optionsList)
 const avatarUrl = ref(null)
 const imageUrl = ref(null)
 const apiData = ref({})
 
-const baseUrl = `https://v1.api.amethyste.moe/generate`
-const token =
-  'Bearer 296b1f183da8205d9a21151b0010234953dd5216fd9386ef6fd874001c0bb95b066b8bad97ed2de1fbac1083591e467c9fc8ecab4081746cb5cee2d76cd5b565'
-
+const baseUrl = BASE_URL
+const token = AMETHYSTE_API_TOKEN
 const getData = () => {
   let body = {}
   if (type.value === 'batslap' || type.value === 'afusion') {
